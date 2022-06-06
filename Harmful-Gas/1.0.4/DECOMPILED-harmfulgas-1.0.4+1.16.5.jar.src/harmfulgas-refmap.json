@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "vini2003/xyz/harmfulgas/mixin/client/ParticleManagerMixin": {
+      "tick": "Lnet/minecraft/class_702;method_3057()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "vini2003/xyz/harmfulgas/mixin/client/ParticleManagerMixin": {
+        "tick": "Lnet/minecraft/class_702;method_3057()V"
+      }
+    }
+  }
+}
